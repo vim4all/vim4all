@@ -1,12 +1,6 @@
 <table>
   <tr>
     <th>
-      <p align="center">
-      <img src="Photo.jpg" alt="drawing" width="150"/> <br>
-      Bohdan Pakhaliuk <br>
-      </p>
-    </th>
-    <th>
         <p align="center">
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab,octave,arduino" />
