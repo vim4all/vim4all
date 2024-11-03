@@ -2,7 +2,7 @@
   <tr>
     <th>
       <p align="center">
-      <img src="Photo.jpg" alt="drawing" width="100"/> <br>
+      <img src="Photo.jpg" alt="drawing" width="150"/> <br>
       Bohdan Pakhaliuk <br>
       </p>
     </th>
