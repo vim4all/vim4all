@@ -18,6 +18,7 @@
     <th>
       
   - Embedded systems programmer
+  - Co-Founder at Wutany Technologies
   - PhD in "Electric power engineering, electrical engineering and electromechanics"
   - Lecturer in *Chernihiv Polytechnic National University* 
     </th>
