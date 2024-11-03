@@ -1,8 +1,9 @@
-# Bohdan Pakhaliuk <img src="Photo.jpg" alt="drawing" width="30"/>
+# <img src="Photo.jpg" alt="drawing" width="50"/> Bohdan Pakhaliuk 
 
 
 - Embedded systems programmer
-- PhD in electronics
+- PhD in "Electric power engineering, electrical engineering and electromechanics".
+  - https://stu.cn.ua/wp-content/uploads/2024/09/dissertation_pakhaliuk_ua.pdf 
 - Lecturer in *Chernihiv Polytechnic National University*
 ---
 - 📫 How to reach me:
