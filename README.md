@@ -9,8 +9,9 @@
     <th>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab,octave,arduino,qt,git,docker" />
-            <img src="https://skillicons.dev/icons?i=debian,gitlab,linux,postgres,raspberrypi,tensorflow,vim,neovim,eclipse" />
+            <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab,octave,arduino" />
+            <img src="https://skillicons.dev/icons?i=qt,git,docker,debian,gitlab,linux,postgres" />
+            <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,vim,neovim,eclipse" />
           </a>
         </p>
     </th>
