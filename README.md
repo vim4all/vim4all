@@ -3,10 +3,10 @@
     <th>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab," />
-            <img src="https://skillicons.dev/icons?i=qt,git,docker,debian,gitlab," />
-            <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,notion,github,vim,"/>
-            <img src="https://skillicons.dev/icons?i=arduino,postgres,eclipse,octave,linux," />
+            <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab" />
+            <img src="https://skillicons.dev/icons?i=qt,git,docker,debian,gitlab" />
+            <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,notion,github,vim" />
+            <img src="https://skillicons.dev/icons?i=arduino,postgres,eclipse,octave,linux" />
           </a>
         </p>
     </th>
