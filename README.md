@@ -8,19 +8,18 @@
       <img src="https://skillicons.dev/icons?i=arduino,eclipse,vim,neovim,vscode,obsidian">
     </td>
     <td align="left" width="60%" valign="top">
-  <p><b>👨‍💻 Embedded Systems Programmer</b><br>
-  7+ years of experience in C/C++, microcontrollers, RTOS, Linux, STM32.</p>
-
-  <p><b>🔋 Researcher in Wireless Power Transfer</b><br>
-  Specializing in hybrid inductive–capacitive WPT and coil design </p>
-
-  <p><b>🎓 Education</b><br>
+  <p><b>👨‍💻 Embedded Systems Programmer:</b> 
+    7+ years of experience in C/C++, microcontrollers, RTOS, Linux, STM32.</p>
+  
+  <p><b>🔋 Researcher in Wireless Power Transfer:</b>
+    Specializing in WPT and coil design </p>
+  <p><b>🎓 Education:</b>
   Ph.D. in Semiconductor Converters for Wireless Charging<br>
-
-  <p><b>💼 Work Experience</b><br>
-  Lecturer — Chernihiv Polytechnic NU (2023–Present)<br>
-  Embedded Software Developer — AREX, C&T Elmech (2018–Present)<br>
-  Private Entrepreneur — Software & Electronics (2023–Present)</p>
+    
+  <p><b>💼 Work Experience:</b><br> 
+    - Lecturer (2023–Present)<br>
+    - Embedded Software Developer (2018–Present)<br>
+    - Private Entrepreneur (2023–Present)</p>
     </td>
   </tr>
 </table>
