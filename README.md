@@ -1,22 +1,21 @@
+
 <table>
   <tr>
-    <th>
-        <p align="center">
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab" />
-            <img src="https://skillicons.dev/icons?i=qt,git,docker,debian,gitlab" />
-            <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,notion,github,vim" />
-            <img src="https://skillicons.dev/icons?i=arduino,postgres,eclipse,octave,linux" />
-          </a>
-        </p>
-    </th>
-    <th>
-      
-  - Embedded systems programmer
-  - Reseacher
-  - PhD in "Electric power engineering, electrical engineering and electromechanics"
-  - Lecturer in *Chernihiv Polytechnic National University* 
-    </th>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab,lua"><br>
+      <img src="https://skillicons.dev/icons?i=raspberrypi,git,docker,debian,postgres,linux"><br>
+      <img src="https://skillicons.dev/icons?i=qt,tensorflow,notion,github,gitlab,markdown"><br>
+      <img src="https://skillicons.dev/icons?i=arduino,eclipse,vim,neovim,vscode,obsidian">
+    </td>
+
+<td align="left" width="50%" valign="top">
+  <p><b>👨‍💻 Embedded systems programmer</b><br>
+  <p><b>🔋 Researcher in WPT systems</b><br>
+  <p><b>🎓 PhD in Electrical Engineering</b><br>
+  <p><b>📚 Lecturer</b><br>
+  <p><b>💼 Private entrepreneur</b></p>
+</td>
+
   </tr>
 </table>
 
@@ -29,3 +28,6 @@ Some links:
 [🔍Scholar](https://scholar.google.com/citations?user=tItUmp0AAAAJ)
 [🔍ORCID](https://orcid.org/0000-0002-2303-5084)
 bohdan.pakhaliuk@gmail.com
+
+
+
