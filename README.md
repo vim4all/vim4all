@@ -21,9 +21,6 @@
   Lecturer — Chernihiv Polytechnic NU (2023–Present)<br>
   Embedded Software Developer — AREX, C&T Elmech (2018–Present)<br>
   Private Entrepreneur — Software & Electronics (2023–Present)</p>
-
-  <p><b>🌍 Languages</b><br>
-  Ukrainian/Russian (Native), English (B2), Polish (B2), German (A2)</p>
     </td>
   </tr>
 </table>
