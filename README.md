@@ -1,27 +1,20 @@
-<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="40%">
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab,lua"><br>
-      <img src="https://skillicons.dev/icons?i=raspberrypi,git,docker,debian,postgres,linux"><br>
-      <img src="https://skillicons.dev/icons?i=qt,tensorflow,notion,github,gitlab,markdown"><br>
-      <img src="https://skillicons.dev/icons?i=arduino,eclipse,vim,neovim,vscode,obsidian">
-    </td>
-    <td align="left" width="60%" valign="top">
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab,lua,raspberrypi,git,docker,debian,postgres,linux">
+      <img src="https://skillicons.dev/icons?i=qt,tensorflow,notion,github,gitlab,markdown,arduino,eclipse,vim,neovim,vscode,obsidian">
   <p><b>👨‍💻 Embedded Systems Programmer:</b> 
-    <br>- 7+ years of experience in C/C++, microcontrollers, Linux<br>
+  - 10+ years of experience in C/C++, microcontrollers, Linux<br>
   <b>🔋 Researcher in Wireless Power Transfer:</b>
-    <br>- Specializing in WPT and coil design<br>
+  - Specializing in WPT and coil design<br>
   <b>🎓 Education:</b>
-  <br> -Ph.D. in Semiconductor Converters for Wireless Charging<br>
-  <b>💼 Work Experience:</b><br> 
-    - Lecturer (2023–Present)<br>
-    - Embedded Software Developer (2018–Present)<br>
+  -Ph.D. in Semiconductor Converters for Wireless Charging<br>
+  <b>💼 Work Experience:</b>
+    - Lecturer (2023–Present)
+    - Embedded Software Developer (2018–Present)
     - Private Entrepreneur (2023–Present)
-    </td>
   </tr>
 </table>
-</div>
 
 
 Some links:
