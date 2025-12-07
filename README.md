@@ -1,23 +1,34 @@
-
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="40%">
       <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab,lua"><br>
       <img src="https://skillicons.dev/icons?i=raspberrypi,git,docker,debian,postgres,linux"><br>
       <img src="https://skillicons.dev/icons?i=qt,tensorflow,notion,github,gitlab,markdown"><br>
       <img src="https://skillicons.dev/icons?i=arduino,eclipse,vim,neovim,vscode,obsidian">
     </td>
+    <td align="left" width="60%" valign="top">
+  <p><b>👨‍💻 Embedded Systems Programmer</b><br>
+  7+ years of experience in C/C++, microcontrollers, RTOS, Linux, STM32.</p>
 
-<td align="left" width="50%" valign="top">
-  <p><b>👨‍💻 Embedded systems programmer</b><br>
-  <p><b>🔋 Researcher in WPT systems</b><br>
-  <p><b>🎓 PhD in Electrical Engineering</b><br>
-  <p><b>📚 Lecturer</b><br>
-  <p><b>💼 Private entrepreneur</b></p>
-</td>
+  <p><b>🔋 Researcher in Wireless Power Transfer</b><br>
+  Specializing in hybrid inductive–capacitive WPT and coil design </p>
 
+  <p><b>🎓 Education</b><br>
+  Ph.D. in Semiconductor Converters for Wireless Charging<br>
+
+  <p><b>💼 Work Experience</b><br>
+  Lecturer — Chernihiv Polytechnic NU (2023–Present)<br>
+  Embedded Software Developer — AREX, C&T Elmech (2018–Present)<br>
+  Private Entrepreneur — Software & Electronics (2023–Present)</p>
+
+  <p><b>🌍 Languages</b><br>
+  Ukrainian/Russian (Native), English (B2), Polish (B2), German (A2)</p>
+    </td>
   </tr>
 </table>
+</div>
+
 
 Some links:
 [🔍LinkedIn](https://www.linkedin.com/in/bohdan-pakhaliuk/)
