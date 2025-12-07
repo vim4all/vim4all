@@ -12,9 +12,9 @@
   <b>🎓 Education:</b>
     🔹Ph.D. in Semiconductor Converters for Wireless Charging<br>
   <b>💼 Work Experience:</b>
-    🔹 Lecturer (2023–Present)
-    🔹 Embedded Software Developer (2018–Present)
-    🔹 Private Entrepreneur (2023–Present)
+    🔹 Lecturer (from 2023)
+    🔹 Embedded Software Developer (from 2018)
+    🔹 Private Entrepreneur (from 2023)
   </tr>
 </table>
 
