@@ -4,7 +4,7 @@
       <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab,lua,raspberrypi,git,docker,debian,postgres,linux">
       <img src="https://skillicons.dev/icons?i=qt,tensorflow,notion,github,gitlab,markdown,arduino,eclipse,vim,neovim,vscode,obsidian">
     </div>
-
+<br>    
   <b>👨‍💻 Embedded Systems Programmer:</b> 
     🔹 10+ years of experience in C/C++, microcontrollers, Linux<br>
   <b>🔋 Researcher in Wireless Power Transfer:</b>
@@ -12,7 +12,6 @@
   <b>🎓 Education:</b>
     🔹Ph.D. in Semiconductor Converters for Wireless Charging<br>
   <b>💼 Work Experience:</b>
-    🔹 Lecturer (from 2023)
     🔹 Embedded Software Developer (from 2018)
     🔹 Private Entrepreneur (from 2023)
   </tr>
