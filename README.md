@@ -5,19 +5,19 @@
       <img src="https://skillicons.dev/icons?i=qt,tensorflow,notion,github,gitlab,markdown,arduino,eclipse,vim,neovim,vscode,obsidian">
     </div>
 <br>    
-  <b>👨‍💻 Embedded Systems Programmer:</b> 
-    🔹 10+ years of experience in C/C++, microcontrollers, Linux<br>
-  <b>🔋 Researcher in Wireless Power Transfer:</b>
-    🔹 Specializing in WPT and coil design<br>
-  <b>🎓 Education:</b>
-    🔹Ph.D. in Semiconductor Converters for Wireless Charging<br>
-  <b>💼 Work Experience:</b>
-    🔹 Embedded Software Developer (from 2018)
-    🔹 Private Entrepreneur (from 2023)
+  <b>Embedded Systems Programmer:</b> 
+    10+ years of experience in C/C++, microcontrollers, Linux<br>
+  <b>Researcher in Wireless Power Transfer:</b>
+    Specializing in WPT and coil design<br>
+  <b>Education:</b>
+    Ph.D. in Semiconductor Converters for Wireless Charging<br>
+  <b> Work Experience:</b>
+    Embedded Software Developer (from 2018),
+    Private Entrepreneur (from 2023)
   </tr>
 </table>
 
-Some links:
+Profiles links:
 [🔍LinkedIn](https://www.linkedin.com/in/bohdan-pakhaliuk/)
 [🔍PhD thesis](https://stu.cn.ua/wp-content/uploads/2024/09/dissertation_pakhaliuk_ua.pdf)
 [🔍Researchgate](https://www.researchgate.net/profile/Bohdan-Pakhaliuk)
