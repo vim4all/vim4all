@@ -10,7 +10,6 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2303-5084)
 [![IEEE](https://img.shields.io/badge/IEEE_Xplore-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/37086467198)
 [![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=flat-square&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57204497228)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bohdan.pakhaliuk@gmail.com)
 
 <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,matlab,lua,raspberrypi,git,docker,debian,postgres,linux&perline=12">
 <img src="https://skillicons.dev/icons?i=qt,tensorflow,notion,github,gitlab,markdown,arduino,eclipse,vim,neovim,vscode,obsidian&perline=12">
