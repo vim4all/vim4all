@@ -17,7 +17,7 @@
 
 </div>
 
-- 🔌 **Embedded:** 10+ years of C/C++ on STM32, ESP32 and Linux — EV charging firmware, telemetry, power converter control (from 2018)
+- 🔌 **Embedded:** 10+ years of C/C++ on STM32, ESP32 and Linux
 - ⚡ **Research:** wireless power transfer, coil design, dynamic EV wireless charging — [Ph.D. thesis](https://stu.cn.ua/wp-content/uploads/2024/09/dissertation_pakhaliuk_ua.pdf), 5 patents
 - 🎓 **Teaching:** lecturer at Chernihiv Polytechnic — open Jupyter courses on electronics and MicroPython (from 2023)
 - 💼 **Private entrepreneur** (from 2023) · 📍 Chernihiv, Ukraine / Tallinn, Estonia
